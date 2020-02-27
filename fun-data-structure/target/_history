@@ -1,0 +1,8 @@
+compile
+exit
+compile
+test
+submit
+test
+submit
+exit

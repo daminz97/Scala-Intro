@@ -1,0 +1,11 @@
+[0m[[0minfo[0m] [0m[32mTests:[0m[0m
+[0m[[0minfo[0m] [0m[32m- enqueue test[0m[0m
+[0m[[0minfo[0m] [0m[32m- dequeue test[0m[0m
+[0m[[0minfo[0m] [0m[32m- toList test[0m[0m
+[0m[[0minfo[0m] [0m[32m- first test[0m[0m
+[0m[[0minfo[0m] [0m[31m- rest test *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  Some(Empty()) did not equal None (fundatatest.scala:158)[0m[0m
+[0m[[0minfo[0m] [0m[32m- max test[0m[0m
+[0m[[0minfo[0m] [0m[32m- nth test[0m[0m
+[0m[[0minfo[0m] [0m[31m- filter test *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  Join(Join(Singleton(3),Singleton(4),2),Empty(),3) did not equal Join(Singleton(3),Singleton(4),2) (fundatatest.scala:195)[0m[0m

@@ -1,0 +1,173 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/DAMINZHANG/implicits/target/scala-2.11/classes
+compile options:
+4 items
+0 -> -deprecation
+1 -> -unchecked
+2 -> -feature
+3 -> -Xfatal-warnings
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+12 items
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> /Users/DAMINZHANG/implicits/target/scala-2.11/classes/DateImplicits$.class
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> /Users/DAMINZHANG/implicits/target/scala-2.11/classes/DateImplicits$BigDate.class
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> /Users/DAMINZHANG/implicits/target/scala-2.11/classes/DateImplicits$DateChange.class
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> /Users/DAMINZHANG/implicits/target/scala-2.11/classes/DateImplicits$DatePlus.class
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> /Users/DAMINZHANG/implicits/target/scala-2.11/classes/DateImplicits.class
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> /Users/DAMINZHANG/implicits/target/scala-2.11/classes/PathImplicits$.class
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> /Users/DAMINZHANG/implicits/target/scala-2.11/classes/PathImplicits$Pappend.class
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> /Users/DAMINZHANG/implicits/target/scala-2.11/classes/PathImplicits$Pread.class
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> /Users/DAMINZHANG/implicits/target/scala-2.11/classes/PathImplicits$Pwrite.class
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> /Users/DAMINZHANG/implicits/target/scala-2.11/classes/PathImplicits$fstPath.class
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> /Users/DAMINZHANG/implicits/target/scala-2.11/classes/PathImplicits$sndPath.class
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> /Users/DAMINZHANG/implicits/target/scala-2.11/classes/PathImplicits.class
+binary dependencies:
+2 items
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_71.jdk/Contents/Home/jre/lib/rt.jar
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> /Users/DAMINZHANG/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+12 items
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> DateImplicits
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> DateImplicits$
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> DateImplicits$BigDate
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> DateImplicits$DateChange
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> DateImplicits$DatePlus
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> PathImplicits
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> PathImplicits$
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> PathImplicits$Pappend
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> PathImplicits$Pread
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> PathImplicits$Pwrite
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> PathImplicits$fstPath
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> PathImplicits$sndPath
+used names:
+61 items
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> <init>
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> <repeated...>
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> ==
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> Any
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> AnyRef
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> Array
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> BigDate
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> Boolean
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> Byte
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> DateChange
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> DateImplicits
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> DatePlus
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> Files
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> Int
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> LinkOption
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> LocalDate
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> Long
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> MatchError
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> Nothing
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> Object
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> OpenOption
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> Pappend
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> Path
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> PathImplicits
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> Paths
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> Pread
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> Predef
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> Pwrite
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> String
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> T1
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> T2
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> Tuple2
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> Year
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> _1
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> _2
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> change
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> date
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> exists
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> file
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> fstPath
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> get
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> getBytes
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> getYear
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> java
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> m
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> n
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> nio
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> now
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> of
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> p
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> plusDays
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> plusMonths
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> plusYears
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> readAllBytes
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> resolve
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> scala
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> sndPath
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> time
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> toLong
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> write
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> year
+product stamps:
+12 items
+/Users/DAMINZHANG/implicits/target/scala-2.11/classes/DateImplicits$.class -> lastModified(1479151300000)
+/Users/DAMINZHANG/implicits/target/scala-2.11/classes/DateImplicits$BigDate.class -> lastModified(1479151300000)
+/Users/DAMINZHANG/implicits/target/scala-2.11/classes/DateImplicits$DateChange.class -> lastModified(1479151300000)
+/Users/DAMINZHANG/implicits/target/scala-2.11/classes/DateImplicits$DatePlus.class -> lastModified(1479151300000)
+/Users/DAMINZHANG/implicits/target/scala-2.11/classes/DateImplicits.class -> lastModified(1479151299000)
+/Users/DAMINZHANG/implicits/target/scala-2.11/classes/PathImplicits$.class -> lastModified(1479151300000)
+/Users/DAMINZHANG/implicits/target/scala-2.11/classes/PathImplicits$Pappend.class -> lastModified(1479151300000)
+/Users/DAMINZHANG/implicits/target/scala-2.11/classes/PathImplicits$Pread.class -> lastModified(1479151300000)
+/Users/DAMINZHANG/implicits/target/scala-2.11/classes/PathImplicits$Pwrite.class -> lastModified(1479151300000)
+/Users/DAMINZHANG/implicits/target/scala-2.11/classes/PathImplicits$fstPath.class -> lastModified(1479151300000)
+/Users/DAMINZHANG/implicits/target/scala-2.11/classes/PathImplicits$sndPath.class -> lastModified(1479151300000)
+/Users/DAMINZHANG/implicits/target/scala-2.11/classes/PathImplicits.class -> lastModified(1479151300000)
+source stamps:
+1 items
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> hash(a2fcf22ec3253d57b2520492dd1589c838a421d5)
+binary stamps:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_71.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1450827058000)
+/Users/DAMINZHANG/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> lastModified(1457105192000)
+class names:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_71.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/DAMINZHANG/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.Tuple2$
+internal apis:
+1 items
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwzREAiAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAhzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHBAAIs+dAAHUGFwcGVuZHNxAH4AC1uCecF0AAZQd3JpdGVzcQB+AAtyfjjxdAAKRGF0ZUNoYW5nZXNxAH4AC0TOeF50AAdCaWdEYXRlc3EAfgALmx3HG3QABVByZWFkc3EAfgAL/cGVPXQAB3NuZFBhdGhzcQB+AAtC4vXbdAAIRGF0ZVBsdXNzcQB+AAv2yQZIdAAHZnN0UGF0aHVxAH4ACQAAACpzcQB+AAtjBIvddAAGbm90aWZ5c3EAfgALtcDyqnQABHJlYWRzcQB+AAvoH5PWdAAFeWVhcnNzcQB+AAuHZnDydAADanVsc3EAfgALwKwCrXQAA25vdnNxAH4AC1ieKrh0AAR3YWl0c3EAfgALNYUO9HQADSRhc0luc3RhbmNlT2ZzcQB+AAsz/vGFdAAGZXF1YWxzc3EAfgALLXdaInQAA2FwcnNxAH4AC68SE9p0AANvY3RzcQB+AAtzSmgVdAAMYXNJbnN0YW5jZU9mc3EAfgALpVIjV3QADHN5bmNocm9uaXplZHNxAH4ACxrzDOt0AA0kaXNJbnN0YW5jZU9mc3EAfgALbCKIiXQACW5vdGlmeUFsbHNxAH4AC+YtlDp0AANzZXBzcQB+AAvwcQRRdAAMaXNJbnN0YW5jZU9mc3EAfgAL/xn2U3QAA2p1bnNxAH4ACw4UDPR0AAY8aW5pdD5zcQB+AAuxC4cXdAADbWFyc3EAfgALg/pfIHQAAj09c3EAfgALbBtkWHQABWNsb25lc3EAfgALR+LH3HQADVBhdGhJbXBsaWNpdHNzcQB+AAtK4Yw3dAANRGF0ZUltcGxpY2l0c3NxAH4AC77V6xB0AANqYW5zcQB+AAvq6kO0dAAIdG9TdHJpbmdzcQB+AAulL7l6dAABK3NxAH4AC2BA3Fx0AANhdWdzcQB+AAtrTeQEdAACIT1zcQB+AAsk+DK5dAAIZ2V0Q2xhc3NzcQB+AAs06b7gdAADZGVjc3EAfgAL9qw5XnQAAm5lc3EAfgALkbLyunQABm1vbnRoc3NxAH4AC9qjrX90AAJlcXNxAH4AC4nk+OV0AANtYXlzcQB+AAthOKhidAADZmVic3EAfgALIRCljnQABXdyaXRlc3EAfgAL9c8c/XQAAS9zcQB+AAt0rk0pdAACIyNzcQB+AAvcMPgrdAAIZmluYWxpemVzcQB+AAualRr7dAAEZGF5c3NxAH4ACzf9tkJ0AAhoYXNoQ29kZXNxAH4ACypqZnp0AAZhcHBlbmRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgB7eHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+AEl1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AJJzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Ae0wACWluaGVyaXRlZHEAfgB7TAAHcGFyZW50c3EAfgB7eHEAfgCXc3EAfgCSdXEAfgB2AAAAAHNxAH4AknVxAH4AdgAAAABzcQB+AJJ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AJZ0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AJZzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AK90AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+ALBzcQB+AKN0AANBbnlzcQB+AKdzcQB+AKp1cQB+AK0AAAACc3EAfgCvdAAFc2NhbGFxAH4AtnNxAH4AeHEAfgCFdXEAfgCGAAAAAHNxAH4AiABxAH4AS3VxAH4AigAAAABxAH4AjnVxAH4AkAAAAABzcQB+AJJxAH4AmHNxAH4AknNxAH4AmnNxAH4AknVxAH4AdgAAAABzcQB+AJJ1cQB+AHYAAAAAc3EAfgCSdXEAfgChAAAAAnNxAH4Ao3EAfgCmc3EAfgCnc3EAfgCqdXEAfgCtAAAAA3NxAH4Ar3EAfgCyc3EAfgCvcQB+ALRxAH4AtnNxAH4Ao3EAfgC4c3EAfgCnc3EAfgCqdXEAfgCtAAAAAnNxAH4Ar3EAfgC9cQB+ALZ1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWGRJfhh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdAA1L1VzZXJzL0RBTUlOWkhBTkcvaW1wbGljaXRzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSi/PIuwyU9V7JSBJLdFYnIOKQh1Q==
+external apis:
+0 items
+source infos:
+1 items
+/Users/DAMINZHANG/implicits/src/main/scala/implicits.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWGRJfhh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANS9Vc2Vycy9EQU1JTlpIQU5HL2ltcGxpY2l0cy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==

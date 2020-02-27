@@ -1,0 +1,3 @@
+Join[Int](Empty(), Empty(), 0)
+Join[Int](q1, Singleton(2), q1.size+1)
+No need to balancing
